@@ -1,4 +1,4 @@
-package com.marcushciu.bean.scope.example.pojo;
+package com.marcushciu.bean.scope.example.bean.method.beans;
 
 import java.time.LocalDateTime;
 
